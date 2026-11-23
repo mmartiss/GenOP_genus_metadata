@@ -7,8 +7,8 @@ Usage:
   filter_gtdb.sh --input FILE --output FILE --genus GENUS [GENUS ...] [--force]
 
 Example:
-  bash scripts/filter_gtdb.sh \
-    --input data/raw/bac120_metadata.tsv.gz \
+  bash scripts/01_filter_genus_gtdb.sh \
+    --input data/raw/gtdb/bac120_metadata.tsv.gz \
     --output data/filtered/selected_genera.tsv.gz \
     --genus Serratia Bacillus
 
