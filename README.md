@@ -19,7 +19,7 @@ GTDB BioSample IDs: 2947
 Matched BioSample records: 1401
 BioSample IDs with SRA runs: 1401
 
-# Clean metadata columns coverage
+# Clean metadata columns coverage (+ what columns removed and whats left)
 column                                        kept   non_missing  coverage_pct  unique_non_missing
 BioSample                                     TRUE   2947         100           2947
 gtdb_accession                                TRUE   2947         100           2947
