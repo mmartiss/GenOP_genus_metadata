@@ -2,3 +2,5 @@ data/raw/*
 !data/raw/.dir
 data/filtered/*
 !data/filtered/.dir
+data/processed/*
+!data/processed/.dir
