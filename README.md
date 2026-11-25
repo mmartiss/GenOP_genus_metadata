@@ -171,3 +171,14 @@ BioSample IDs with SRA runs: 1401 \
 | gtdb_gtdb_type_designation_ncbi_taxa_sources | FALSE | 59 | 2 | 1 |
 | gtdb_ncbi_type_material_designation | FALSE | 32 | 1.1 | 2 |
 | gtdb_ncbi_refseq_category | FALSE | 17 | 0.6 | 1 |
+
+# Summary example
+| Species | Counts | NCBI species | Geo_loc | Clinical | Sample |
+| --- | ---: | --- | --- | --- | --- |
+| S. marcescens A | 3 | S. marcescens | USA (2); China (1) | Yes (3) | Blood (2); Urine (1) |
+| S. marcescens B | 2 | S. ficaria | Japan (1); China (1) | No (2) | Water (1); Soil (1) |
+| S. marcescens C | 2 | S. nevei | USA (1); Germany (1) | Yes (2) | Sputum (1); Blood (1) |
+| S. marcescens D | 1 | Unknown | Spain (1) | Unknown (1) | Soil (1) |
+| S. nevei A | 1 | S. nevei | Germany (1) | No (1) | Soil (1) |
+| S. nevei B | 2 | S. marcescens | France (1); Italy (1) | Yes (1); Unknown (1) | Blood (1); Unknown (1) |
+| S. ficaria A | 1 | S. ficaria | France (1) | No (1) | Plant (1) |
