@@ -2,16 +2,18 @@
 
 set -euo pipefail
 
-cd "$(dirname "${BASH_SOURCE[0]}")"
+# Set project root directory
+PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+cd "$PROJECT_DIR"
 
-GENUS="${1:?Usage: bash run_pipeline.sh <genus>}"
+GENUS="${1:?Usage: bash pipe/t0_pipe.sh <genus>}"
 
 FILTERED="data/filtered/${GENUS,,}_genera.tsv.gz"
 PROCESSED="data/processed"
 
 mkdir -p data/filtered "$PROCESSED"
 
-# 00 — Download GTDB metadata if missing
+# 00 — Download GTDB metadata
 bash scripts/00_download_gtdb.sh
 
 # 01 — Filter GTDB metadata
@@ -32,13 +34,13 @@ python3 scripts/03_fetch_biosample.py \
 
 # 04 — Merge metadata
 python3 scripts/04_merge_metadata.py \
-    --gtdb "$FILTERED" \
+    --gtdb "$PROCESSED/${GENUS}_gtdb.tsv" \
     --biosample "$PROCESSED/${GENUS}_biosample.tsv" \
     --sra "$PROCESSED/${GENUS}_sra.tsv" \
     --out "$PROCESSED/${GENUS}_merged_metadata.tsv"
 
 # 05 — Clean metadata
-Rscript scripts/05_clean_metadata.R \
+Rscript scripts/05_clean_metadata.r \
     "$PROCESSED/${GENUS}_merged_metadata.tsv" \
     "$PROCESSED/${GENUS}_clean_metadata.tsv"
 
