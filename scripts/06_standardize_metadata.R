@@ -1,5 +1,7 @@
 #!/usr/bin/env Rscript
 # Usage: Rscript 06_standardize_metadata.R input.tsv output.tsv [mapping_dir]
+# Example
+# Rscript scripts/06_standardize_metadata.R     data/processed/Serratia_merged_metadata.tsv     data/processed/Serratia_standardized_metadata.tsv
 args <- commandArgs(trailingOnly=TRUE)
 if(length(args)<2 || length(args)>3) stop('Usage: Rscript 06_standardize_metadata.R input.tsv output.tsv [mapping_dir]')
 script <- sub('^--file=', '', grep('^--file=',commandArgs(),value=TRUE)[1])
@@ -55,6 +57,19 @@ required <- c('BioSample','gtdb_accession','std_species','std_clinical_status','
 if(any(!required %in% names(d))) stop('Missing required columns: ',paste(setdiff(required,names(d)),collapse=', '))
 for(c in setdiff(unname(cols),names(d))) d[[c]] <- rep(NA_character_,n)
 out <- d[unname(cols)]; names(out) <- names(cols)
+# Keep country and subnational locality separate; retain unparsed values.
+for(i in seq_len(nrow(out))) {
+  co <- out$country[i]; loc <- out$geo_location[i]
+  if(is.na(loc) || loc=='') next
+  if(is.na(co) || co=='') next
+  countries <- trimws(strsplit(co,' | ',fixed=TRUE)[[1]])
+  parts <- trimws(strsplit(loc,' | ',fixed=TRUE)[[1]])
+  for(j in seq_along(parts)) for(k in countries) {
+    if(tolower(parts[j])==tolower(k)) parts[j] <- ''
+    else if(startsWith(tolower(parts[j]),paste0(tolower(k),':'))) parts[j] <- trimws(substring(parts[j],nchar(k)+2L))
+  }
+  out$geo_location[i] <- paste(unique(parts[nzchar(parts)]),collapse=' | ')
+}
 # Mark likely clinical specimens separately; do not infer confirmed patient origin.
 s <- tolower(trimws(out$isolation_source)); s[is.na(s)] <- ''
 probable <- grepl('^(blood|blood culture|sputum|urine|wound swab|endotracheal aspirate|tracheal aspirate|bronchoalveolar lavage|transtracheal aspiration)$',s)
