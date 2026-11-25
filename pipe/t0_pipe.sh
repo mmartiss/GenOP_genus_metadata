@@ -45,4 +45,18 @@ Rscript scripts/05_clean_metadata.r \
     "$PROCESSED/${GENUS}_merged_metadata.tsv" \
     "$PROCESSED/${GENUS}_clean_metadata.tsv"
 
-echo "Pipeline completed: $GENUS"
+# 06 - Standardize metadata
+echo "[06] Standardizing metadata..."
+
+Rscript scripts/06_standardize_metadata.R \
+    "data/processed/${GENUS}_merged_metadata.tsv" \
+    "data/processed/${GENUS}_standardized_metadata.tsv"
+
+# 07 - Species summary
+echo "[07] Generating species summary..."
+
+Rscript scripts/07_species_summary.R \
+    "data/processed/${GENUS}_standardized_metadata.tsv" \
+    "data/processed/${GENUS}_species_summary.tsv"
+
+echo "[DONE] Pipeline completed for ${GENUS}"

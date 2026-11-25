@@ -1,4 +1,10 @@
 #!/usr/bin/env Rscript
+
+# USAGE
+# Rscript scripts/07_species_summary.r \
+#    data/processed/Serratia_standardized_metadata.tsv \
+#    data/processed/Serratia_species_summary.tsv
+
 # Summarize unique GTDB/NCBI species pairs; one genome belongs to one group.
 args <- commandArgs(trailingOnly = TRUE)
 if (length(args) != 2L) stop('Usage: Rscript scripts/07_species_summary.R INPUT.tsv OUTPUT.tsv', call. = FALSE)
