@@ -2,18 +2,18 @@
 #!/usr/bin/env python3
 
 # [USAGE]
-# python3 scripts/fetch_sra.py \
+# python3 scripts/02_fetch_sra.py \
 #     --genus Serratia \
 #     --input data/filtered/serratia_genera.tsv.gz
 
 # Example
-# python3 scripts/fetch_sra.py \
+# python3 scripts/02_fetch_sra.py \
 #     --genus Serratia \
 #     --input data/filtered/serratia_genera.tsv.gz \
 #     --limit 10
 
 # Example
-# python3 scripts/fetch_sra.py \
+# python3 scripts/02_fetch_sra.py \
 #     --genus Serratia \
 #     --input data/filtered/serratia_genera.tsv.gz \
 #     --refresh
