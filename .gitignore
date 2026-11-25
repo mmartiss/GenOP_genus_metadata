@@ -4,3 +4,5 @@ data/filtered/*
 !data/filtered/.dir
 data/processed/*
 !data/processed/.dir
+data/trees/*
+!data/trees/.dir
