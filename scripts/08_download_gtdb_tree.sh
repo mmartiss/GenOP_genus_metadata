@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# USAGE:
+# bash scripts/08_download_gtdb_tree.sh
+
 set -euo pipefail
 
 PROJECT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"

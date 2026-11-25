@@ -1,25 +1,30 @@
 # GenOP_genus_metadata
 Collects genus metadata
 
-# Filter by genus
+### Needed
+Rscript (apt install r-base)
+ape, data.table, R.utils (script -e 'install.packages(c("ape", "data.table", "R.utils"), repos="https://cloud.r-project.org")')
+
+
+## Filter by genus
 GTDB genus Serratia	2947 \
 NCBI genus Serratia,	224 (But GTDB genus is different) \
 zgrep 'g__Serratia;'	3196 \
 
-# SRA
+## SRA
 BioSamples processed: 2947 \
 BioSamples with SRA: 1401 \
 BioSamples without SRA: 1546 \
 Errors: 0 \
-Unique SRA runs: 1713 \
+Unique SRA runs: 1713 
 
-# Metadata merge
+## Metadata merge
 GTDB genomes: 2947 \
 GTDB BioSample IDs: 2947 \
 Matched BioSample records: 1401 \
-BioSample IDs with SRA runs: 1401 \
+BioSample IDs with SRA runs: 1401 
 
-# Clean metadata columns coverage (+ what columns removed and whats left)
+## Clean metadata columns coverage (+ what columns removed and whats left)
 | column | kept | non_missing | coverage_pct | unique_non_missing |
 | --- | --- | ---: | ---: | ---: |
 | BioSample | TRUE | 2947 | 100 | 2947 |
@@ -172,7 +177,7 @@ BioSample IDs with SRA runs: 1401 \
 | gtdb_ncbi_type_material_designation | FALSE | 32 | 1.1 | 2 |
 | gtdb_ncbi_refseq_category | FALSE | 17 | 0.6 | 1 |
 
-# Summary example
+## Summary example
 | Species | Counts | NCBI species | Geo_loc | Clinical | Sample |
 | --- | ---: | --- | --- | --- | --- |
 | S. marcescens A | 3 | S. marcescens | USA (2); China (1) | Yes (3) | Blood (2); Urine (1) |
