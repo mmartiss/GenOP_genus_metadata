@@ -48,14 +48,14 @@ Rscript scripts/05_clean_metadata.r \
 # 06 - Standardize metadata
 echo "[06] Standardizing metadata..."
 
-Rscript scripts/06_standardize_metadata.R \
+Rscript scripts/06_standardize_metadata.r \
     "data/processed/${GENUS}_merged_metadata.tsv" \
     "data/processed/${GENUS}_standardized_metadata.tsv"
 
 # 07 - Species summary
 echo "[07] Generating species summary..."
 
-Rscript scripts/07_species_summary.R \
+Rscript scripts/07_species_summary.r \
     "data/processed/${GENUS}_standardized_metadata.tsv" \
     "data/processed/${GENUS}_species_summary.tsv"
 
