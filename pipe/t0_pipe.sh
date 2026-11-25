@@ -64,4 +64,9 @@ echo "[STEP 08] Downloading GTDB tree..."
 
 bash scripts/08_download_gtdb_tree.sh
 
+# 09 - Extract genus trees
+echo "[STEP 09] Extracting genus phylogenetic trees..."
+
+Rscript scripts/09_extract_genus_tree.r "${GENUS}"
+
 echo "[DONE] Pipeline completed for ${GENUS}"
