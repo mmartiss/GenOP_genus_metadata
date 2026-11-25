@@ -1,0 +1,374 @@
+raw	standard	country	ecology	clinical	status	count
+USA	USA	USA			preserved	225
+United Kingdom:England	United Kingdom: England	United Kingdom			normalized	205
+United Kingdom: England	United Kingdom: England	United Kingdom			preserved	205
+Australia: Melbourne	Australia: Melbourne	Australia			preserved	103
+USA: Georgia	USA: Georgia	USA			preserved	81
+USA: WA	USA: Washington	USA			normalized	77
+USA: Pittsburgh, Pennsylvania	USA: Pennsylvania, Pittsburgh	USA			normalized	70
+USA: Pittsburgh; Pennsylvania	USA: Pennsylvania, Pittsburgh	USA			normalized	70
+China: Jiangsu;Nanjing	China: Jiangsu, Nanjing	China			normalized	49
+United Kingdom	United Kingdom	United Kingdom			preserved	49
+Germany	Germany	Germany			preserved	42
+Pakistan	Pakistan	Pakistan			preserved	41
+China: Peking	China: Beijing	China			normalized	41
+China: Hangzhou	China: Hangzhou	China			preserved	36
+Australia: U-Vet Werribee Animal Hospital	Australia: U-Vet Werribee Animal Hospital	Australia			preserved	29
+Japan	Japan	Japan			preserved	28
+Brazil: Hospital das Clinicas; Sao Paulo	Brazil: Hospital das Clinicas, Sao Paulo	Brazil			normalized	24
+South Africa: Durban	South Africa: Durban	South Africa			preserved	24
+USA: Michigan	USA: Michigan	USA			preserved	22
+China	China	China			preserved	21
+Canada:Montreal	Canada: Montreal	Canada			normalized	20
+Spain: Madrid	Spain: Madrid	Spain			preserved	18
+USA:New York City	USA: New York City	USA			normalized	18
+USA: Morgantown	USA: Morgantown	USA			preserved	18
+Canada: Quebec	Canada: Quebec	Canada			preserved	17
+France	France	France			preserved	17
+Brazil	Brazil	Brazil			preserved	15
+USA: Miami	USA: Miami	USA			preserved	12
+USA: Madison; WI	USA: Wisconsin, Madison	USA			normalized	11
+France: Caen	France: Caen	France			preserved	11
+South Africa	South Africa	South Africa			preserved	9
+USA: MA; Boston	USA: Massachusetts, Boston	USA			normalized	9
+USA: Florida Keys; Sand Key	USA: Florida Keys, Sand Key	USA			normalized	9
+USA: MA, Boston	USA: Massachusetts, Boston	USA			normalized	9
+Spain	Spain	Spain			preserved	9
+Tunisia	Tunisia	Tunisia			preserved	9
+Germany: Klinikum Lippe Detmold, Bielefeld	Germany: Klinikum Lippe Detmold, Bielefeld	Germany			preserved	9
+USA: Florida Keys, Sand Key	USA: Florida Keys, Sand Key	USA			preserved	9
+USA: Florida;Grecian Rocks	USA: Florida, Grecian Rocks	USA			normalized	8
+Germany: Klinikum Bielefeld - Mitte, Bielefeld	Germany: Klinikum Bielefeld - Mitte, Bielefeld	Germany			preserved	8
+Russia: Moscow	Russia: Moscow	Russia			preserved	8
+USA: Florida,Grecian Rocks	USA: Florida, Grecian Rocks	USA			normalized	8
+Colombia	Colombia	Colombia			preserved	8
+Argentina	Argentina	Argentina			preserved	8
+USA:Boston	USA: Boston	USA			normalized	7
+USA: MO	USA: Missouri	USA			normalized	7
+Mexico:Nuevo Leon, Guadalupe	Mexico: Nuevo Leon, Guadalupe	Mexico			normalized	7
+USA: Durham	USA: Durham	USA			preserved	7
+Botswana: Gaborone	Botswana: Gaborone	Botswana			preserved	6
+USA: Florida,Rock Key	USA: Florida, Rock Key	USA			normalized	6
+Romania: Targu Mures	Romania: Targu Mures	Romania			preserved	6
+USA: California	USA: California	USA			preserved	6
+Puerto Rico	Puerto Rico	Puerto Rico			preserved	6
+India	India	India			preserved	6
+Romania	Romania	Romania			preserved	6
+USA: Florida;Rock Key	USA: Florida, Rock Key	USA			normalized	6
+Bulgaria: Sofia	Bulgaria: Sofia	Bulgaria			preserved	5
+USA: Peoria; IL	USA: Illinois, Peoria	USA			normalized	5
+USA: Palo Alto; California	USA: California, Palo Alto	USA			normalized	5
+Netherlands	Netherlands	Netherlands			preserved	5
+Nigeria	Nigeria	Nigeria			preserved	5
+Brazil: Sao Paulo	Brazil: Sao Paulo	Brazil			preserved	5
+Philippines: Laguna de Bay	Philippines: Laguna de Bay	Philippines			preserved	5
+USA: Pittsburgh	USA: Pittsburgh	USA			preserved	5
+USA: Utah	USA: Utah	USA			preserved	5
+Italy	Italy	Italy			preserved	5
+USA: Palo Alto, California	USA: California, Palo Alto	USA			normalized	5
+Mexico: Chiapas	Mexico: Chiapas	Mexico			preserved	4
+China:Sichuan	China: Sichuan	China			normalized	4
+Ecuador: Quito	Ecuador: Quito	Ecuador			preserved	4
+Romania: Cluj-Napoca	Romania: Cluj-Napoca	Romania			preserved	4
+USA:Virginia	USA: Virginia	USA			normalized	4
+Bangladesh	Bangladesh	Bangladesh			preserved	4
+Iran: Tehran	Iran: Tehran	Iran			preserved	4
+Denmark: Copenhagen	Denmark: Copenhagen	Denmark			preserved	4
+Canada: Ottawa	Canada: Ottawa	Canada			preserved	4
+USA: CA	USA: California	USA			normalized	4
+South Africa: Pretoria	South Africa: Pretoria	South Africa			preserved	4
+Germany: Ev. Klinikum Bielefeld, Bielefeld	Germany: Ev. Klinikum Bielefeld, Bielefeld	Germany			preserved	4
+Bangladesh: Rajshahi	Bangladesh: Rajshahi	Bangladesh			preserved	4
+China: Sichuan	China: Sichuan	China			preserved	4
+Taiwan	Taiwan	Taiwan			preserved	4
+USA: Raleigh	USA: Raleigh	USA			preserved	4
+Mexico	Mexico	Mexico			preserved	3
+Colombia: Antioquia; Medellin	Colombia: Antioquia, Medellin	Colombia			normalized	3
+USA: Rio Hondo Golf Course; Downey; California	USA: California, Rio Hondo Golf Course, Downey	USA			normalized	3
+USA: Madison, WI	USA: Wisconsin, Madison	USA			normalized	3
+Germany: Braunschweig	Germany: Braunschweig	Germany			preserved	3
+Czech Republic	Czechia	Czechia			normalized	3
+USA: Florida,Key Largo	USA: Florida, Key Largo	USA			normalized	3
+China: Guangzhou	China: Guangzhou	China			preserved	3
+Bangladesh: Gazipur	Bangladesh: Gazipur	Bangladesh			preserved	3
+USA: Athens, GA	USA: Georgia, Athens	USA			normalized	3
+Uruguay	Uruguay	Uruguay			preserved	3
+China: Anhui	China: Anhui	China			preserved	3
+USA: Oklahoma	USA: Oklahoma	USA			preserved	3
+Canada: Ontario	Canada: Ontario	Canada			preserved	3
+France: Paris	France: Paris	France			preserved	3
+Sweden	Sweden	Sweden			preserved	3
+USA: Florida	USA: Florida	USA			preserved	3
+Brazil:Dourados	Brazil: Dourados	Brazil			normalized	3
+China: Zhejiang	China: Zhejiang	China			preserved	3
+China:Zhengzhou	China: Zhengzhou	China			normalized	3
+USA: Florida;Key Largo	USA: Florida, Key Largo	USA			normalized	3
+USA: Los Angeles	USA: Los Angeles	USA			preserved	3
+China: Shandong	China: Shandong	China			preserved	2
+Pakistan: Hattar	Pakistan: Hattar	Pakistan			preserved	2
+United Kingdom: London	United Kingdom: London	United Kingdom			preserved	2
+Benin: Agro-ecological zone of West Atacora	Benin: Agro-ecological zone of West Atacora	Benin			preserved	2
+China: Jilin	China: Jilin	China			preserved	2
+Canada: Val-d Or	Canada: Val-d Or	Canada			preserved	2
+China: Suzhou	China: Suzhou	China			preserved	2
+China: Whenzhou	China: Whenzhou	China			preserved	2
+USA: Massachusetts, Boston	USA: Massachusetts, Boston	USA			preserved	2
+Lebanon	Lebanon	Lebanon			preserved	2
+South Africa: Bloemfontein	South Africa: Bloemfontein	South Africa			preserved	2
+Thailand: Bangkok	Thailand: Bangkok	Thailand			preserved	2
+USA: Boston; MA	USA: Massachusetts, Boston	USA			normalized	2
+Hungary	Hungary	Hungary			preserved	2
+Belgium:Wallonia	Belgium: Wallonia	Belgium			normalized	2
+Australia	Australia	Australia			preserved	2
+USA: Iowa	USA: Iowa	USA			preserved	2
+USA: Alabama	USA: Alabama	USA			preserved	2
+USA: KY	USA: Kentucky	USA			normalized	2
+Switzerland	Switzerland	Switzerland			preserved	2
+USA: North Carolina, Singletary Lake State Park	USA: North Carolina, Singletary Lake State Park	USA			preserved	2
+Spain: A Coruna, Galicia	Spain: A Coruna, Galicia	Spain			preserved	2
+United Kingdom: London market	United Kingdom: London market	United Kingdom			preserved	2
+USA: Harvard Forest; Massachusetts	USA: Massachusetts, Harvard Forest	USA			normalized	2
+USA: Grecian Rocks; Florida	USA: Florida, Grecian Rocks	USA			normalized	2
+South Africa: North West Province	South Africa: North West Province	South Africa			preserved	2
+China: Jiangsu	China: Jiangsu	China			preserved	2
+Egypt: Cairo	Egypt: Cairo	Egypt			preserved	2
+USA: Boston, MA	USA: Massachusetts, Boston	USA			normalized	2
+South Africa: Northwest of Grahamstown	South Africa: Northwest of Grahamstown	South Africa			preserved	2
+China:Chongqing	China: Chongqing	China			normalized	2
+Australia: Sydney	Australia: Sydney	Australia			preserved	2
+Belgium	Belgium	Belgium			preserved	2
+Australia: Melbourne Zoo	Australia: Melbourne Zoo	Australia			preserved	2
+Singapore	Singapore	Singapore			preserved	2
+Japan: Shiga	Japan: Shiga	Japan			preserved	2
+USA: Grecian Rocks, Florida	USA: Florida, Grecian Rocks	USA			normalized	2
+Japan: Saku	Japan: Saku	Japan			preserved	2
+USA: Massachusetts; Boston	USA: Massachusetts, Boston	USA			normalized	2
+Spain: Cartagena; Murcia	Spain: Cartagena, Murcia	Spain			normalized	2
+Portugal	Portugal	Portugal			preserved	2
+Switzerland: Basel	Switzerland: Basel	Switzerland			preserved	2
+United Kingdom: Oxford	United Kingdom: Oxford	United Kingdom			preserved	2
+Russia: Sakhalin	Russia: Sakhalin	Russia			preserved	2
+India: Siliguri	India: Siliguri	India			preserved	2
+USA: Vero Beach, FL	USA: Florida, Vero Beach	USA			normalized	2
+USA: Austin	USA: Austin	USA			preserved	2
+Nigeria: Lagos	Nigeria: Lagos	Nigeria			preserved	2
+USA: Unknown	USA: Unknown	USA			preserved	2
+Germany:Langen	Germany: Langen	Germany			normalized	2
+Hong Kong: Telegraph Bay	Hong Kong: Telegraph Bay	Hong Kong			preserved	2
+Greece: Evoia	Greece: Evoia	Greece			preserved	2
+USA: Maryland	USA: Maryland	USA			preserved	2
+Hong Kong: Needle Hill	Hong Kong: Needle Hill	Hong Kong			preserved	2
+China: Shanxi	China: Shanxi	China			preserved	2
+Antarctica: Pony Lake	Antarctica: Pony Lake	Antarctica			preserved	2
+China: Shanghai	China: Shanghai	China			preserved	2
+Denmark: Zealand	Denmark: Zealand	Denmark			preserved	2
+Turkey	Türkiye	Türkiye			normalized	2
+New Zealand: Christchurch	New Zealand: Christchurch	New Zealand			preserved	2
+Japan: Aichi	Japan: Aichi	Japan			preserved	2
+China:Hainan	China: Hainan	China			normalized	2
+Hong Kong: Causeway Bay	Hong Kong: Causeway Bay	Hong Kong			preserved	2
+USA: Houston	USA: Houston	USA			preserved	2
+Philippines	Philippines	Philippines			preserved	2
+INP	INP				review	2
+France:Montpellier	France: Montpellier	France			normalized	2
+New Zealand: Canterbury	New Zealand: Canterbury	New Zealand			preserved	2
+USA: California, Los Angeles County	USA: California, Los Angeles County	USA			preserved	2
+South Korea: Ulsan	South Korea: Ulsan	South Korea			preserved	2
+USA: Texas	USA: Texas	USA			preserved	2
+Portugal: National Park of Peneda-Geres; Ermida	Portugal: National Park of Peneda-Geres, Ermida	Portugal			normalized	2
+Hong Kong: Kam Shan	Hong Kong: Kam Shan	Hong Kong			preserved	2
+USA: Cook County, IL	USA: Illinois, Cook County	USA			normalized	2
+Colombia: Antioquia; Rionegro	Colombia: Antioquia, Rionegro	Colombia			normalized	2
+USA: Pittsburgh; Magee-Womens Hospital of UPMC	USA: Pittsburgh, Magee-Womens Hospital of UPMC	USA			normalized	2
+Germany: Langen	Germany: Langen	Germany			preserved	2
+France: Montpellier	France: Montpellier	France			preserved	2
+Germany: Goettingen	Germany: Goettingen	Germany			preserved	2
+Spain: Santander	Spain: Santander	Spain			preserved	2
+USA: Florida,Key West	USA: Florida, Key West	USA			normalized	1
+USA: Baltimore, MD	USA: Maryland, Baltimore	USA			normalized	1
+China:Baoding	China: Baoding	China			normalized	1
+USA: TX, Corpus Christi	USA: Texas, Corpus Christi	USA			normalized	1
+Canada:Ontario	Canada: Ontario	Canada			normalized	1
+Bangladesh: Dhaka, Savar	Bangladesh: Dhaka, Savar	Bangladesh			preserved	1
+Russia: Kemerovo	Russia: Kemerovo	Russia			preserved	1
+Germany: Ev. Klinikum Bielefeld; Bielefeld	Germany: Ev. Klinikum Bielefeld, Bielefeld	Germany			normalized	1
+China: Xiangyang	China: Xiangyang	China			preserved	1
+Switzerland: Lausanne	Switzerland: Lausanne	Switzerland			preserved	1
+Venezuela: Carrao River	Venezuela: Carrao River	Venezuela			preserved	1
+USA: Pennsylvania	USA: Pennsylvania	USA			preserved	1
+Spain: Portonovo; Galicia	Spain: Portonovo, Galicia	Spain			normalized	1
+China: Chongqing	China: Chongqing	China			preserved	1
+Tunisia: Tunis	Tunisia: Tunis	Tunisia			preserved	1
+Spain: Mentrida; Toledo	Spain: Mentrida, Toledo	Spain			normalized	1
+USA: Rock Key; Florida	USA: Florida, Rock Key	USA			normalized	1
+Antarctica	Antarctica	Antarctica			preserved	1
+China:Zhujiang Hospital	China: Zhujiang Hospital	China			normalized	1
+India: Assam; Sivasagar	India: Assam, Sivasagar	India			normalized	1
+Norway	Norway	Norway			preserved	1
+South Africa:Africa	South Africa: Africa	South Africa			normalized	1
+China: Yunnan	China: Yunnan	China			preserved	1
+China: Guangdong	China: Guangdong	China			preserved	1
+USA:Georgia;Byron	USA: Georgia, Byron	USA			normalized	1
+India: Vellore; TN	India: Vellore, TN	India			normalized	1
+USA: San Marcos; TX	USA: Texas, San Marcos	USA			normalized	1
+USA: Florida;Long Key	USA: Florida, Long Key	USA			normalized	1
+China:Wenzhou	China: Wenzhou	China			normalized	1
+Poland: Biebrzanski Park Narodowy	Poland: Biebrzanski Park Narodowy	Poland			preserved	1
+China: Lake Taihu; Jiangsu	China: Lake Taihu, Jiangsu	China			normalized	1
+China:Fujian	China: Fujian	China			normalized	1
+Hong Kong: Pak Lap	Hong Kong: Pak Lap	Hong Kong			preserved	1
+Tunisia:Tunis	Tunisia: Tunis	Tunisia			normalized	1
+USA: Rock Key, Florida	USA: Florida, Rock Key	USA			normalized	1
+USA: Rochester	USA: Rochester	USA			preserved	1
+USA: Mount Olive, NC	USA: North Carolina, Mount Olive	USA			normalized	1
+USA:Georgia,Byron	USA: Georgia, Byron	USA			normalized	1
+USA: Arlington, WI	USA: Wisconsin, Arlington	USA			normalized	1
+USA: Florida,Long Key	USA: Florida, Long Key	USA			normalized	1
+Japan: Kanagawa	Japan: Kanagawa	Japan			preserved	1
+Canada: Saskatchewan	Canada: Saskatchewan	Canada			preserved	1
+China: Lake Taihu, Jiangsu	China: Lake Taihu, Jiangsu	China			preserved	1
+India: Rajasthan, Alwar	India: Rajasthan, Alwar	India			preserved	1
+Russia:Moscow	Russia: Moscow	Russia			normalized	1
+India: Raiganj, West Bengal	India: Raiganj, West Bengal	India			preserved	1
+Argentina: Rio Cuarto	Argentina: Rio Cuarto	Argentina			preserved	1
+China: Zhejiang, Taizhou	China: Zhejiang, Taizhou	China			preserved	1
+Bangladesh: Dhaka	Bangladesh: Dhaka	Bangladesh			preserved	1
+Egypt: Mansoura	Egypt: Mansoura	Egypt			preserved	1
+Trinidad and Tobago: Vance River	Trinidad and Tobago: Vance River	Trinidad and Tobago			preserved	1
+USA: New Haven, CT	USA: Connecticut, New Haven	USA			normalized	1
+Tunisia: Sfax	Tunisia: Sfax	Tunisia			preserved	1
+UK	United Kingdom	United Kingdom			normalized	1
+Japan:Akita, Yurihonjo, Akita Prefectural University	Japan: Akita, Yurihonjo, Akita Prefectural University	Japan			normalized	1
+Malaysia	Malaysia	Malaysia			preserved	1
+USA: Maywood, IL	USA: Illinois, Maywood	USA			normalized	1
+Tanzania	Tanzania	Tanzania			preserved	1
+Peru: Lima	Peru: Lima	Peru			preserved	1
+USA: Key West waste water treatment plant influent, Florida	USA: Florida, Key West waste water treatment plant influent	USA			normalized	1
+United Kingdom: Crawley	United Kingdom: Crawley	United Kingdom			preserved	1
+Tunisia: Sidi Bouzid	Tunisia: Sidi Bouzid	Tunisia			preserved	1
+China: Beijing city	China: Beijing	China			normalized	1
+USA: Florida;Key West	USA: Florida, Key West	USA			normalized	1
+USA: TX; Corpus Christi	USA: Texas, Corpus Christi	USA			normalized	1
+Brazil: Minas Gerais	Brazil: Minas Gerais	Brazil			preserved	1
+USA: DC	USA: DC	USA			preserved	1
+USA: Minnesota	USA: Minnesota	USA			preserved	1
+USA: Florida;Looe Key	USA: Florida, Looe Key	USA			normalized	1
+United Kingdom: Edinburgh; Royal Infirmary Edinburgh; Neonatal unit	United Kingdom: Edinburgh, Royal Infirmary Edinburgh, Neonatal unit	United Kingdom			normalized	1
+India: West bengal	India: West bengal	India			preserved	1
+Mexico: Nuevo Leon	Mexico: Nuevo Leon	Mexico			preserved	1
+USA: Long Key, Florida	USA: Florida, Long Key	USA			normalized	1
+Thailand: Amnat Charoen Province	Thailand: Amnat Charoen Province	Thailand			preserved	1
+China:Yibin City, Sichuan Province	China: Yibin City, Sichuan Province	China			normalized	1
+USA: Wisconsin, Madison	USA: Wisconsin, Madison	USA			preserved	1
+USA:Aiken, SC	USA: South Carolina, Aiken	USA			normalized	1
+India: Kolkata	India: Kolkata	India			preserved	1
+Serbia	Serbia	Serbia			preserved	1
+Spain: Asturias, Cabrales	Spain: Asturias, Cabrales	Spain			preserved	1
+USA:Wisconsin, Arlington	USA: Wisconsin, Arlington	USA			normalized	1
+Colombia: Valle del Cauca	Colombia: Valle del Cauca	Colombia			preserved	1
+USA: Sand Key; Florida	USA: Florida, Sand Key	USA			normalized	1
+China: Fuzhou	China: Fuzhou	China			preserved	1
+Germany: Bonn	Germany: Bonn	Germany			preserved	1
+China: Wenzhou	China: Wenzhou	China			preserved	1
+USA: Wisconsin; Dunn County	USA: Wisconsin, Dunn County	USA			normalized	1
+Brazil: Bahia	Brazil: Bahia	Brazil			preserved	1
+USA: Denver	USA: Denver	USA			preserved	1
+Spain:Valencia; Paterna	Spain: Valencia, Paterna	Spain			normalized	1
+China: Lianyungang	China: Lianyungang	China			preserved	1
+USA: North Carolina; Singletary Lake State Park	USA: North Carolina, Singletary Lake State Park	USA			normalized	1
+USA: Canton; IL	USA: Illinois, Canton	USA			normalized	1
+China: Wuhan	China: Wuhan	China			preserved	1
+New Zealand	New Zealand	New Zealand			preserved	1
+Morocco	Morocco	Morocco			preserved	1
+China:anhui	China: anhui	China			normalized	1
+Canada: Calgary	Canada: Calgary	Canada			preserved	1
+China: Qingdao	China: Qingdao	China			preserved	1
+USA: Connecticut	USA: Connecticut	USA			preserved	1
+China: chongqing	China: chongqing	China			preserved	1
+South Korea: Naju	South Korea: Naju	South Korea			preserved	1
+USA: Sand Key, Florida	USA: Florida, Sand Key	USA			normalized	1
+China:Zhejiang	China: Zhejiang	China			normalized	1
+Russia	Russia	Russia			preserved	1
+Bangladesh: Kushtia	Bangladesh: Kushtia	Bangladesh			preserved	1
+United Arab Emirates	United Arab Emirates	United Arab Emirates			preserved	1
+Russia: Novosibirsk region	Russia: Novosibirsk region	Russia			preserved	1
+USA: Harvard Forest, Massachusetts	USA: Massachusetts, Harvard Forest	USA			normalized	1
+Brazil: Campinas	Brazil: Campinas	Brazil			preserved	1
+Australia: Melbourne, VIC	Australia: Melbourne, VIC	Australia			preserved	1
+USA:Wisconsin, Madison	USA: Wisconsin, Madison	USA			normalized	1
+Greece: Samaria; Crete	Greece: Samaria, Crete	Greece			normalized	1
+South Africa: Ethekwini district; KwaZulu-Natal	South Africa: Ethekwini district, KwaZulu-Natal	South Africa			normalized	1
+Poland: Zloty Stok	Poland: Zloty Stok	Poland			preserved	1
+Germany: Rostock	Germany: Rostock	Germany			preserved	1
+Australia: Melbourne; VIC	Australia: Melbourne, VIC	Australia			normalized	1
+Chile: La Araucania	Chile: La Araucania	Chile			preserved	1
+USA:New Jersey	USA: New Jersey	USA			normalized	1
+USSR	USSR	USSR			review	1
+Spain: Logrono; La Rioja	Spain: Logrono, La Rioja	Spain			normalized	1
+Argentina: Buenos Aires	Argentina: Buenos Aires	Argentina			preserved	1
+USA: Long Key; Florida	USA: Florida, Long Key	USA			normalized	1
+China: Yibin City; Sichuan Province	China: Yibin City, Sichuan Province	China			normalized	1
+Poland: Swietochlowice; Kalina Pound	Poland: Swietochlowice, Kalina Pound	Poland			normalized	1
+China: Zhongshan Station	China: Zhongshan Station	China			preserved	1
+Brazil: Porto Alegre	Brazil: Porto Alegre	Brazil			preserved	1
+USA: Wisconsin; Madison	USA: Wisconsin, Madison	USA			normalized	1
+Antarctica: Tokarev Island; Archipelago Haswell	Antarctica: Tokarev Island, Archipelago Haswell	Antarctica			normalized	1
+USA: Aiken; SC	USA: South Carolina, Aiken	USA			normalized	1
+Spain: Carmona; Sevilla	Spain: Carmona, Sevilla	Spain			normalized	1
+China: Beijing	China: Beijing	China			preserved	1
+USA:DC	USA: DC	USA			normalized	1
+USA: New Jersey, New Brunswick	USA: New Jersey, New Brunswick	USA			preserved	1
+USA: Lansing, IL	USA: Illinois, Lansing	USA			normalized	1
+Colombia: El Carmen de Chucuri, Santander	Colombia: El Carmen de Chucuri, Santander	Colombia			preserved	1
+USA: Florida,Looe Key	USA: Florida, Looe Key	USA			normalized	1
+USA: Dane County, WI	USA: Wisconsin, Dane County	USA			normalized	1
+India: Chinsura, West Bengal, Hooghly River	India: Chinsura, West Bengal, Hooghly River	India			preserved	1
+India: Gujarat; Jungadh	India: Gujarat, Jungadh	India			normalized	1
+Spain: Asturias; Cabrales	Spain: Asturias, Cabrales	Spain			normalized	1
+South Africa: Gauteng	South Africa: Gauteng	South Africa			preserved	1
+Denmark: Aarhus	Denmark: Aarhus	Denmark			preserved	1
+China: Jian ou	China: Jian ou	China			preserved	1
+India:Lahaul-Spiti	India: Lahaul-Spiti	India			normalized	1
+China:Anhui	China: Anhui	China			normalized	1
+USA: Pennsylvania;Pittsburgh	USA: Pennsylvania, Pittsburgh	USA			normalized	1
+Spain: Ruidera; Castilla	Spain: Ruidera, Castilla	Spain			normalized	1
+Taiwan: Taichung	Taiwan: Taichung	Taiwan			preserved	1
+Chile	Chile	Chile			preserved	1
+India: Arunachal pradesh	India: Arunachal pradesh	India			preserved	1
+India: Nagpur	India: Nagpur	India			preserved	1
+Poland: Lodz Province; Belchatow; Municipal Landfill	Poland: Lodz Province, Belchatow, Municipal Landfill	Poland			normalized	1
+Spain: Cabrils	Spain: Cabrils	Spain			preserved	1
+South Korea: Wanju	South Korea: Wanju	South Korea			preserved	1
+USA: Riverside; California	USA: California, Riverside	USA			normalized	1
+Italy: Acate	Italy: Acate	Italy			preserved	1
+USA: Pennsylvania; Pittsburgh	USA: Pennsylvania, Pittsburgh	USA			normalized	1
+Japan:Akita; Yurihonjo; Akita Prefectural University	Japan: Akita, Yurihonjo, Akita Prefectural University	Japan			normalized	1
+China: South China Sea	China: South China Sea	China			preserved	1
+USA: Henry; IL	USA: Illinois, Henry	USA			normalized	1
+Spain: Hellin; Albacete	Spain: Hellin, Albacete	Spain			normalized	1
+Russia: Sakha Republic	Russia: Sakha Republic	Russia			preserved	1
+USA: Maywood; IL	USA: Illinois, Maywood	USA			normalized	1
+USA: Key West waste water treatment plant influent; Florida	USA: Florida, Key West waste water treatment plant influent	USA			normalized	1
+Spain: Cabo de Gata; Almeria	Spain: Cabo de Gata, Almeria	Spain			normalized	1
+Bangladesh: Chittagong	Bangladesh: Chittagong	Bangladesh			preserved	1
+India: Rajasthan; Alwar	India: Rajasthan, Alwar	India			normalized	1
+Japan:Tochigi	Japan: Tochigi	Japan			normalized	1
+Germany: Klinikum Bielefeld - Mitte; Bielefeld	Germany: Klinikum Bielefeld - Mitte, Bielefeld	Germany			normalized	1
+China: Taihang mountain	China: Taihang mountain	China			preserved	1
+Senegal: Niokolo-Koba National Park	Senegal: Niokolo-Koba National Park	Senegal			preserved	1
+India: West Bengal	India: West Bengal	India			preserved	1
+China:Guangzhou	China: Guangzhou	China			normalized	1
+Cameroon: Ebogo II; Mbalmayo	Cameroon: Ebogo II, Mbalmayo	Cameroon			normalized	1
+USA: Oak Ridge; Tennessee	USA: Tennessee, Oak Ridge	USA			normalized	1
+India: MS	India: MS	India			preserved	1
+Argentina: Rosario; Santa Fe	Argentina: Rosario, Santa Fe	Argentina			normalized	1
+USA: New Mexico	USA: New Mexico	USA			preserved	1
+Greece	Greece	Greece			preserved	1
+Chile: Lirima thermal springs	Chile: Lirima thermal springs	Chile			preserved	1
+South Korea	South Korea	South Korea			preserved	1
+Spain: Cazorla; Jaen	Spain: Cazorla, Jaen	Spain			normalized	1
+USA: Pittsburgh; PA	USA: Pennsylvania, Pittsburgh	USA			normalized	1
+China:Jian ou	China: Jian ou	China			normalized	1
+Australia: Donnybrook	Australia: Donnybrook	Australia			preserved	1
+USA: Philadelphia; PA	USA: Pennsylvania, Philadelphia	USA			normalized	1
+Italy: Policoro	Italy: Policoro	Italy			preserved	1

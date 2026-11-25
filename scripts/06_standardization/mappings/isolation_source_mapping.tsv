@@ -1,0 +1,386 @@
+raw	standard	country	ecology	clinical	status	count
+blood	Blood				normalized	517
+sputum	Sputum				normalized	162
+urine	Urine				normalized	75
+marine	Marine		Environmental	Non-clinical	normalized	70
+Clone isolated from the evolution experiment described in Ketola et al. 2013 (doi: 10.1111/evo.12148)	Clone isolated from the evolution experiment described in Ketola et al. 2013 (doi: 10.1111/evo.12148)				preserved	58
+Bloodstream	Blood				normalized	58
+lung	lung				preserved	54
+retail store	retail store				preserved	38
+wound	wound				preserved	34
+body fluid	body fluid				preserved	32
+tissue sample	Tissue				normalized	30
+soil	Soil		Environmental	Non-clinical	normalized	27
+respiratory	respiratory				preserved	25
+University of Michigan Health System	University of Michigan Health System				preserved	22
+Skin and soft tissue	Skin and soft tissue				preserved	20
+Sink swab	Sink swab				preserved	19
+bloodstream	Blood				normalized	17
+other					missing	15
+tracheal aspirate	tracheal aspirate				preserved	14
+endotracheal aspirate	endotracheal aspirate				preserved	13
+anaerobic bioreactor effluent	anaerobic bioreactor effluent		Environmental	Non-clinical	preserved	11
+Blood	Blood				preserved	10
+gastric tube used by newborn	gastric tube used by newborn				preserved	10
+transtracheal aspiration	transtracheal aspiration				preserved	10
+nursing call button in hospital intensive care unit	nursing call button in hospital intensive care unit		Environmental	Non-clinical	preserved	10
+mosquito	mosquito		Animal-associated		preserved	9
+feces	Feces				normalized	9
+Rectal swab	Rectal swab				preserved	9
+Hair cutting kit	Hair cutting kit				preserved	8
+Rectal swab/stool	Rectal swab/stool				preserved	8
+catheter	catheter				preserved	8
+gut	gut				preserved	8
+Imported Fresh Produce	Imported Fresh Produce				preserved	8
+metagenome	metagenome				preserved	8
+not available: to be reported later					missing	8
+Respiratory	respiratory				normalized	7
+Imported Fresh Produce 2	Imported Fresh Produce 2				preserved	7
+Lab maintained population of field collected O. laevigatus	Lab maintained population of field collected O. laevigatus				preserved	7
+cucumber	cucumber		Plant-associated		preserved	7
+bacterial strain isolated from smoked salmon	bacterial strain isolated from smoked salmon		Food-associated		preserved	7
+washroom sink in hospital intensive care unit	washroom sink in hospital intensive care unit		Environmental	Non-clinical	preserved	6
+Complejo Asistencial Universitario de Salamanca (Salamanca)	Complejo Asistencial Universitario de Salamanca (Salamanca)				preserved	6
+BAL	Bronchoalveolar lavage				normalized	6
+Urine collected via cystocentesis	Urine collected via cystocentesis				preserved	6
+Tissue	Tissue				preserved	6
+stool	Feces				normalized	6
+wound swab	Wound swab				normalized	6
+water	water				preserved	6
+Hospital Universitario Ramon y Cajal (Madrid)	Hospital Universitario Ramon y Cajal (Madrid)				preserved	6
+swab	swab				preserved	6
+tissue	Tissue				normalized	6
+Imported Fresh Produce 1	Imported Fresh Produce 1				preserved	5
+Urine	Urine				preserved	5
+rectal swab	Rectal swab				normalized	5
+rhizosphere	rhizosphere				preserved	5
+lake water and sediment from Laguna de Bay	lake water and sediment from Laguna de Bay		Environmental	Non-clinical	preserved	5
+stool sample of individual with bacteremia	stool sample of individual with bacteremia				preserved	5
+Ground beef	Ground beef		Food-associated		preserved	5
+Blood culture	Blood culture				preserved	5
+Transcatheter BC	Transcatheter BC				preserved	4
+pond water	pond water				preserved	4
+Bronchial secretions/BAL	Bronchial secretions/BAL				preserved	4
+catheter urine	catheter urine				preserved	4
+Urine collected by free catch sample	Urine collected by free catch sample				preserved	4
+throat	throat				preserved	4
+Blattella germanica	Blattella germanica				preserved	4
+eye	eye				preserved	4
+bronchoalveolar lavage	bronchoalveolar lavage				preserved	4
+Intra-abdominal	Intra-abdominal				preserved	4
+neonatology unit from Hospital	neonatology unit from Hospital				preserved	4
+environmental	environmental		Environmental	Non-clinical	preserved	4
+insect rearing in EBCL quarantine	insect rearing in EBCL quarantine				preserved	4
+nasal swab	nasal swab				preserved	4
+Endotracheal aspirate	endotracheal aspirate				normalized	4
+drainage tube	drainage tube				preserved	4
+bedside light switch in hospital intensive care unit	bedside light switch in hospital intensive care unit		Environmental	Non-clinical	preserved	4
+Sewage	Sewage				preserved	4
+Guttural pouch biopsy	Guttural pouch biopsy				preserved	4
+abscess	abscess				preserved	4
+platelet concentrate	platelet concentrate				preserved	4
+alcohol foam dispenser in hospital intensive care unit	alcohol foam dispenser in hospital intensive care unit		Environmental	Non-clinical	preserved	4
+faecal	faecal				preserved	4
+midgut	midgut				preserved	4
+Coscinium fenestratum leaf	Coscinium fenestratum leaf				preserved	4
+Rectal Swab	Rectal swab				normalized	4
+air	air				preserved	3
+carrot	carrot				preserved	3
+Wound	wound				normalized	3
+Dead Mole Cricket	Dead Mole Cricket				preserved	3
+non mosquito Diptera host	non mosquito Diptera host				preserved	3
+leaves	leaves				preserved	3
+catheter tip	catheter tip				preserved	3
+Tracheal aspiration	Tracheal aspiration				preserved	3
+Infected agricultural plant	Infected agricultural plant				preserved	3
+clinical isolate	clinical isolate			Clinical	preserved	3
+Imported Fresh Produce 11	Imported Fresh Produce 11				preserved	3
+mosquito larval water	mosquito larval water				preserved	3
+phyllosphere_metagenome_of_Oryza sativa	phyllosphere_metagenome_of_Oryza sativa				preserved	3
+Imported Fresh Produce 6	Imported Fresh Produce 6				preserved	3
+river water	river water				preserved	3
+nodules	nodules				preserved	3
+Lab maintained population of field collected insects	Lab maintained population of field collected insects				preserved	3
+Imported Fresh Produce 3	Imported Fresh Produce 3				preserved	3
+insect on Acer sp.	insect on Acer sp.				preserved	3
+activated sludge	activated sludge				preserved	3
+campo natural	campo natural				preserved	3
+lake water	lake water				preserved	3
+blood from hospitalized preterm neonate	blood from hospitalized preterm neonate			Clinical	preserved	3
+surface swab	surface swab				preserved	3
+rhizosphere soil	rhizosphere soil				preserved	3
+Mixed salads	Mixed salads				preserved	3
+insect larvae	insect larvae		Animal-associated		preserved	3
+Imported Fresh Produce 4	Imported Fresh Produce 4				preserved	3
+whole insect macerate from a lab maintained population of field collected O. laevigatus	whole insect macerate from a lab maintained population of field collected O. laevigatus				preserved	2
+forest soil	forest soil				preserved	2
+mercury contaminated soil collected from Steed Pond Site	mercury contaminated soil collected from Steed Pond Site				preserved	2
+Beef Cattle Respiratory Tract	Beef Cattle Respiratory Tract				preserved	2
+pancreas	pancreas				preserved	2
+Liver swab at post-mortem	Liver swab at post-mortem				preserved	2
+wastewater	Wastewater		Environmental	Non-clinical	normalized	2
+environmental swab veterinary clinic	environmental swab veterinary clinic		Environmental	Non-clinical	preserved	2
+Canal water	Canal water				preserved	2
+Tracheal secretion	Tracheal secretion				preserved	2
+whole Stomoxys flies	whole Stomoxys flies				preserved	2
+tomato	tomato				preserved	2
+Surgical wound	Surgical wound				preserved	2
+Abdominal and right flank swab	Abdominal and right flank swab				preserved	2
+gall tissue	gall tissue				preserved	2
+Surgical wound (abdomen)	Surgical wound (abdomen)				preserved	2
+Disinfectant bottle	Disinfectant bottle				preserved	2
+Pus	Pus				preserved	2
+honeybee metagenome	honeybee metagenome				preserved	2
+patient	patient				preserved	2
+Rhizosphere of Cannabis sativa	Rhizosphere of Cannabis sativa				preserved	2
+peritoneal fluid	peritoneal fluid				preserved	2
+Sink basin	Sink basin				preserved	2
+blood sample of individual with bacteremia	blood sample of individual with bacteremia				preserved	2
+human gut	human gut				preserved	2
+lettuce	lettuce				preserved	2
+human skin	human skin				preserved	2
+meconium	meconium				preserved	2
+pus	Pus				normalized	2
+intestines	intestines				preserved	2
+Hospital Universitario Mutua de Terrassa (Terrassa)	Hospital Universitario Mutua de Terrassa (Terrassa)				preserved	2
+blood culture	Blood culture				normalized	2
+Axillary-groin swab	Axillary-groin swab				preserved	2
+Field-collected insect	Field-collected insect				preserved	2
+Catheter urine	catheter urine				normalized	2
+Bloom Water	Bloom Water				preserved	2
+larvae	larvae				preserved	2
+PFAS-impacted soil	PFAS-impacted soil				preserved	2
+Marble rocks of palaeoproterozoic metasediments of the Aravali Supergroup	Marble rocks of palaeoproterozoic metasediments of the Aravali Supergroup				preserved	2
+sputum; induced	sputum; induced				preserved	2
+Imported Fresh Produce 10	Imported Fresh Produce 10				preserved	2
+hemolymph	hemolymph				preserved	2
+blue cheese	blue cheese				preserved	2
+Peritoneal fluid	peritoneal fluid				normalized	2
+potato	potato				preserved	2
+organic material	organic material				preserved	2
+drain	drain				preserved	2
+Pus (rectal swab)	Pus (rectal swab)				preserved	2
+Sink drain	Sink drain				preserved	2
+Nasal flush and tearduct swab	Nasal flush and tearduct swab				preserved	2
+Raw milk	Raw milk				preserved	2
+potato rhizosphere	potato rhizosphere				preserved	2
+rhizosphere soil in ginger field	rhizosphere soil in ginger field				preserved	2
+BRONCHOALVEOLAR LAVA	BRONCHOALVEOLAR LAVA				preserved	2
+fruit	fruit				preserved	2
+Ensuite 7/8	Ensuite 7/8				preserved	2
+Symptomatic mushroom tissue	Symptomatic mushroom tissue				preserved	2
+skin	skin				preserved	2
+ghanaian yam	ghanaian yam				preserved	2
+pharyngeal secretions	pharyngeal secretions				preserved	2
+hemocoel swab	hemocoel swab				preserved	2
+entomopathogenic nematode Oscheius sp. MCB living in soil	entomopathogenic nematode Oscheius sp. MCB living in soil				preserved	2
+BLOOD CULTURE	Blood culture				normalized	2
+bacterial strain isolated from fresh salmon	bacterial strain isolated from fresh salmon				preserved	2
+Drain in NICU room	Drain in NICU room				preserved	2
+blood from silkworm suffering from septicemia	blood from silkworm suffering from septicemia				preserved	2
+Imported Fresh Produce 17	Imported Fresh Produce 17				preserved	2
+fecal screen	fecal screen				preserved	2
+skin ulcer	skin ulcer				preserved	2
+Around bed in NICU room	Around bed in NICU room				preserved	2
+adult insect on Urtica dioica	adult insect on Urtica dioica				preserved	2
+Imported Fresh Produce 15	Imported Fresh Produce 15				preserved	2
+Midstream urine	Midstream urine				preserved	2
+pupal cells	pupal cells				preserved	2
+Tracheal wash	Tracheal wash				preserved	2
+Peri-rectal	Peri-rectal				preserved	2
+metal	metal				preserved	2
+Endotracheal secretions / tracheal suction	Endotracheal secretions / tracheal suction				preserved	2
+peritoneal wash fluid	peritoneal wash fluid				preserved	2
+Eye swab	Eye swab				preserved	2
+Tracheal secretions	Tracheal secretions				preserved	2
+Bronchial aspirate	Bronchial aspirate				preserved	2
+Imported Fresh Produce 14	Imported Fresh Produce 14				preserved	2
+Field collected specimens	Field collected specimens				preserved	2
+Pasture	Pasture				preserved	2
+freshwater: disused tungsten mine	freshwater: disused tungsten mine				preserved	2
+Sea bream	Sea bream				preserved	2
+tracheal fluid	tracheal fluid				preserved	2
+bacterial strain isolated from gravelax salmon	bacterial strain isolated from gravelax salmon				preserved	2
+bedside rail in hospital intensive care unit	bedside rail in hospital intensive care unit		Environmental	Non-clinical	preserved	2
+human	human				preserved	2
+Capsicum annum rhizoplane	Capsicum annum rhizoplane				preserved	2
+Imported Fresh Produce 19	Imported Fresh Produce 19				preserved	2
+spoiled beef	spoiled beef				preserved	2
+water surface of oligotrophic pond	water surface of oligotrophic pond				preserved	2
+Hospital Vall d'Hebron (Barcelona)	Hospital Vall d'Hebron (Barcelona)				preserved	1
+Jahangirnagar University Canteen drain sediment	Jahangirnagar University Canteen drain sediment				preserved	1
+Secretion	Secretion				preserved	1
+peat soil	peat soil				preserved	1
+Infant 2 DOL 27 gut	Infant 2 DOL 27 gut				preserved	1
+Bile drainage	Bile drainage				preserved	1
+NICU Sink drain biofilm	NICU Sink drain biofilm				preserved	1
+cell phone	cell phone				preserved	1
+Imported Fresh Produce 5	Imported Fresh Produce 5				preserved	1
+Wound swab foot	Wound swab foot				preserved	1
+mountain soil	mountain soil				preserved	1
+Manis javanica	Manis javanica				preserved	1
+pond water/sludge	pond water/sludge				preserved	1
+tap	tap				preserved	1
+termite gut	termite gut				preserved	1
+groundwater from well GW066-71-2-20-13	groundwater from well GW066-71-2-20-13				preserved	1
+tannery waste water	tannery waste water				preserved	1
+soil adhering to oilseed rape s roots	soil adhering to oilseed rape s roots				preserved	1
+Patient with urinary tract infection	Patient with urinary tract infection			Clinical	preserved	1
+bulb	bulb				preserved	1
+Greece	Greece				preserved	1
+geothermal spring water	geothermal spring water				preserved	1
+food production metagenome	food production metagenome				preserved	1
+Solanacea rhizosphere	Solanacea rhizosphere				preserved	1
+surface-sterilized gnotobiotic actinorhizal nodule; gnotobiotic speckled alder inoculated with speckled alder rhizosphere soil	surface-sterilized gnotobiotic actinorhizal nodule; gnotobiotic speckled alder inoculated with speckled alder rhizosphere soil				preserved	1
+nodule	nodule				preserved	1
+leg wound	leg wound				preserved	1
+Corn Polenta	Corn Polenta				preserved	1
+Imported Fresh Produce 18	Imported Fresh Produce 18				preserved	1
+Environmental sample water No. 4	Environmental sample water No. 4		Environmental	Non-clinical	preserved	1
+asparagus	asparagus				preserved	1
+Mining_waste	Mining_waste				preserved	1
+pleural fluid	pleural fluid				preserved	1
+River	River				preserved	1
+alfalfa rhizospheric soil	alfalfa rhizospheric soil				preserved	1
+Sugar beet, rhizosphere soil	Sugar beet, rhizosphere soil				preserved	1
+Dairy Product	Dairy Product				preserved	1
+Wound fluid	Wound fluid				preserved	1
+Decubitus	Decubitus				preserved	1
+gall bladder	gall bladder				preserved	1
+Rectal	Rectal				preserved	1
+Styrian pumpkin anthrosphere	Styrian pumpkin anthrosphere				preserved	1
+Cheese rind	Cheese rind				preserved	1
+Hospital Vall d Hebron (Barcelona)	Hospital Vall d Hebron (Barcelona)				preserved	1
+Enrichment culture	Enrichment culture				preserved	1
+host-1	host-1				preserved	1
+rhizosphere of naturally growing Equisetum plants in 1980 from Uppsala; Sweden	rhizosphere of naturally growing Equisetum plants in 1980 from Uppsala; Sweden				preserved	1
+pooled bronchial wash from ICU patient from Kuwait	pooled bronchial wash from ICU patient from Kuwait			Clinical	preserved	1
+secretion	Secretion				normalized	1
+abdominal fluid	abdominal fluid				preserved	1
+Catheter tip	catheter tip				normalized	1
+ground beef	Ground beef		Food-associated		normalized	1
+induced sputum	induced sputum				preserved	1
+cucumber fermentation brine	cucumber fermentation brine				preserved	1
+throat swab	throat swab				preserved	1
+pea root	pea root				preserved	1
+wound discharge	wound discharge				preserved	1
+Hospital sewage	Hospital sewage		Environmental	Non-clinical	preserved	1
+pulmonary fluid	pulmonary fluid				preserved	1
+Environment	Environment				preserved	1
+Bronch	Bronch				preserved	1
+non	non				preserved	1
+Urine sample	Urine sample				preserved	1
+alveolar bronchial lavage	alveolar bronchial lavage				preserved	1
+biliary stent	biliary stent				preserved	1
+Imported Fresh Produce 16	Imported Fresh Produce 16				preserved	1
+ultrasonography probe	ultrasonography probe				preserved	1
+shrimp seafood product	shrimp seafood product				preserved	1
+cerebrospinal fluid	cerebrospinal fluid				preserved	1
+contaminated soil	contaminated soil				preserved	1
+leaf	leaf				preserved	1
+Lemon balm	Lemon balm				preserved	1
+Imported Fresh Produce 7	Imported Fresh Produce 7				preserved	1
+A highway near a former nuclear weapons processing plant	A highway near a former nuclear weapons processing plant				preserved	1
+Diseased Pinus pinaster tree in Oliveira do Hospital; Coimbra (Portugal)	Diseased Pinus pinaster tree in Oliveira do Hospital; Coimbra (Portugal)				preserved	1
+insect body	insect body				preserved	1
+Stools	Stools				preserved	1
+intestine	intestine				preserved	1
+Catheter-associated urinary tract infection	Catheter-associated urinary tract infection				preserved	1
+Crude oil polluted soil	Crude oil polluted soil				preserved	1
+earthworm gut	earthworm gut				preserved	1
+Swab from infected site	Swab from infected site				preserved	1
+Leg ulcer	Leg ulcer				preserved	1
+Peat soil samples	Peat soil samples				preserved	1
+soil from potato crop	soil from potato crop				preserved	1
+Plum ( Country of origin: United States)	Plum ( Country of origin: United States)				preserved	1
+ureter	ureter				preserved	1
+bronchial secretion	bronchial secretion				preserved	1
+rectal exudate	rectal exudate				preserved	1
+pear	pear				preserved	1
+drainage	drainage				preserved	1
+Urethral Swab	Urethral Swab				preserved	1
+anaerobic digestion of organic wastes under variable temperature conditions and feedstocks	anaerobic digestion of organic wastes under variable temperature conditions and feedstocks				preserved	1
+Raw shrimp	Raw shrimp				preserved	1
+fish	fish				preserved	1
+Imported Fresh Produce 13	Imported Fresh Produce 13				preserved	1
+gut contents	gut contents				preserved	1
+diseased grass grub larva	diseased grass grub larva				preserved	1
+the rhizosphere soil of tea tree	the rhizosphere soil of tea tree				preserved	1
+urinary infection	urinary infection				preserved	1
+maize rhizosphere soil	maize rhizosphere soil				preserved	1
+Red pepper grown commercial farmer s field	Red pepper grown commercial farmer s field				preserved	1
+Compost	Compost				preserved	1
+Imported Fresh Produce 12	Imported Fresh Produce 12				preserved	1
+arsenic-containing biofilms	arsenic-containing biofilms				preserved	1
+rhizosphere of Brassica napus	rhizosphere of Brassica napus				preserved	1
+milk processing plant	milk processing plant				preserved	1
+Axenic isolate	Axenic isolate				preserved	1
+vermicompost	vermicompost				preserved	1
+organic beef carpaccio	organic beef carpaccio				preserved	1
+Wetland	Wetland				preserved	1
+clinical sample	clinical sample			Clinical	preserved	1
+arterial catheter	arterial catheter				preserved	1
+Synovial fluid	Synovial fluid				preserved	1
+resp Cx	resp Cx				preserved	1
+Wound swab	Wound swab				preserved	1
+Rhizosphere	rhizosphere				normalized	1
+Hand swab	Hand swab				preserved	1
+Diseased Pinus pinaster tree in Oliveira do Hospital, Coimbra (Portugal)	Diseased Pinus pinaster tree in Oliveira do Hospital, Coimbra (Portugal)				preserved	1
+Other clinical sources	Other clinical sources			Clinical	preserved	1
+Orthopaedic screws	Orthopaedic screws				preserved	1
+Wound/Abscess	Wound/Abscess				preserved	1
+bacterial strain isolated from shrimp	bacterial strain isolated from shrimp				preserved	1
+Imported Fresh Produce 22	Imported Fresh Produce 22				preserved	1
+abdominal contents from Antarctic fish	abdominal contents from Antarctic fish				preserved	1
+ascitic fluid	ascitic fluid				preserved	1
+guano	guano				preserved	1
+Resp Cx	resp Cx				normalized	1
+midgut content	midgut content				preserved	1
+Imported Fresh Produce 8	Imported Fresh Produce 8				preserved	1
+blackwater river	blackwater river				preserved	1
+bone	bone				preserved	1
+Rootzone of shrubs	Rootzone of shrubs				preserved	1
+rhizospheric soil of Picrorrhiza kurroa plant	rhizospheric soil of Picrorrhiza kurroa plant				preserved	1
+soil near the Lu an Grease Factory	soil near the Lu an Grease Factory				preserved	1
+farm	farm				preserved	1
+snake-bite wound	snake-bite wound				preserved	1
+Himalayan medicinal plant	Himalayan medicinal plant				preserved	1
+tannery waste	tannery waste				preserved	1
+rhizosphere of willow	rhizosphere of willow				preserved	1
+Earthworm gut	earthworm gut				normalized	1
+growing on Rhizopus stolonifer ioslated from strawberry	growing on Rhizopus stolonifer ioslated from strawberry				preserved	1
+seeds	seeds				preserved	1
+rhizosphere of naturally growing Equisetum plants in 1980 from Uppsala, Sweden	rhizosphere of naturally growing Equisetum plants in 1980 from Uppsala, Sweden				preserved	1
+excreta	excreta				preserved	1
+Cocoa soil	Cocoa soil				preserved	1
+bronch	Bronch				normalized	1
+Peach ( Country of origin: United States)	Peach ( Country of origin: United States)				preserved	1
+Rapeseed plant	Rapeseed plant				preserved	1
+Suction catheter cup	Suction catheter cup				preserved	1
+Zhejiang, China	Zhejiang, China				preserved	1
+stomach	stomach				preserved	1
+surface-sterilized gnotobiotic actinorhizal nodule; gnotobiotic speckled alder with Frankia sp. AvcI1	surface-sterilized gnotobiotic actinorhizal nodule; gnotobiotic speckled alder with Frankia sp. AvcI1				preserved	1
+Riptortus pedestris	Riptortus pedestris				preserved	1
+plant debris in the intestinal content of a mummified ancient puppy (Canis lupus)	plant debris in the intestinal content of a mummified ancient puppy (Canis lupus)				preserved	1
+Basil	Basil				preserved	1
+hospital NICU surfaces and sink samples	hospital NICU surfaces and sink samples		Environmental	Non-clinical	preserved	1
+Chrysanthemum rhizosphere	Chrysanthemum rhizosphere				preserved	1
+Environmental investigation Siphon in room 1	Environmental investigation Siphon in room 1		Environmental	Non-clinical	preserved	1
+Urines	Urines				preserved	1
+parotidectomy	parotidectomy				preserved	1
+bee gut	bee gut				preserved	1
+milk from cattle farm	milk from cattle farm				preserved	1
+Sponge dressing for wound	Sponge dressing for wound				preserved	1
+marjoram	marjoram				preserved	1
+plant surface	plant surface				preserved	1
+environmental soil	environmental soil		Environmental	Non-clinical	preserved	1
+rhizome	rhizome				preserved	1
+whole insect macerate from a laboratory maintained population of field collected O. laevigatus	whole insect macerate from a laboratory maintained population of field collected O. laevigatus				preserved	1
+Environmental sample water No. 5	Environmental sample water No. 5		Environmental	Non-clinical	preserved	1
+salted beef	salted beef				preserved	1
+infant feces	infant feces				preserved	1
+potato tuber rotten tissue	potato tuber rotten tissue				preserved	1
+bronchial sample from a male patient with chronic obstructive pneumonia	bronchial sample from a male patient with chronic obstructive pneumonia			Clinical	preserved	1
+human feces	human feces				preserved	1
+Wild adult 3.3	Wild adult 3.3				preserved	1
+aspirate	aspirate				preserved	1

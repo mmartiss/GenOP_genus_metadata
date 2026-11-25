@@ -1,0 +1,40 @@
+raw	standard	country	ecology	clinical	status	count
+Pneumonia	Pneumonia				preserved	28
+urinary tract infection	urinary tract infection				preserved	19
+respiratory infection	respiratory infection				preserved	17
+bacterial infectious disease	bacterial infectious disease				preserved	14
+CRE	CRE				review	12
+bacteremia	Bacteremia				normalized	11
+Respiratory infection	respiratory infection				normalized	11
+Sink colonisation	Sink colonisation				review	10
+Skin and soft tissue infection	Skin and soft tissue infection				preserved	10
+opportunistic bacterial infectious disease	opportunistic bacterial infectious disease				preserved	10
+Bacterial infection	Bacterial infection				preserved	7
+intra-abdominal infection	intra-abdominal infection				preserved	7
+Acinetobacter baumannii	Acinetobacter baumannii				review	6
+colonised	Colonization				normalized	5
+skin infection	skin infection				preserved	5
+diseased	diseased				review	5
+Urinary tract infection	urinary tract infection				normalized	5
+respiratory tract infection	Respiratory tract infection				normalized	4
+Colonisation	Colonization				normalized	4
+Blood infection	Bloodstream infection				normalized	4
+Bacteremia	Bacteremia				preserved	3
+bacterial sepsis	bacterial sepsis				preserved	2
+septicemia	septicemia				preserved	2
+Gastrointestinal infection	Gastrointestinal infection				preserved	2
+bloodstream infection	Bloodstream infection				normalized	2
+Bilateral pneumonia-COVID19	Bilateral pneumonia-COVID19				preserved	1
+Surgical wound infection	Surgical wound infection				preserved	1
+Cough	Cough				review	1
+Serratia nematodiphila respiratory disease	Serratia nematodiphila respiratory disease				preserved	1
+pneumonia	Pneumonia				normalized	1
+Colonization	Colonization				preserved	1
+Intra-abdominal infection	intra-abdominal infection				normalized	1
+Sepsis	Sepsis				preserved	1
+Bacterial eye infection	Bacterial eye infection				preserved	1
+intra-abdomina infection	Intra-abdominal infection				normalized	1
+wound infection	wound infection				preserved	1
+Cerebral Hemorrhage	Cerebral Hemorrhage				preserved	1
+Respiratory	Respiratory				review	1
+Respiratory Tract Infection	Respiratory tract infection				normalized	1
