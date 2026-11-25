@@ -50,8 +50,8 @@ tree_file <- file.path(
 
 metadata_file <- file.path(
     project_dir,
-    "data/processed",
-    paste0(genus, "_gtdb.tsv")
+    "data/filtered",
+    paste0(tolower(genus), "_genera.tsv.gz")
 )
 
 out_dir <- file.path(
@@ -80,11 +80,14 @@ if (!file.exists(metadata_file)) {
 
 cat("[INFO] Reading GTDB metadata...\n")
 
-metadata <- fread(metadata_file)
-
 required_cols <- c(
     "accession",
     "gtdb_taxonomy"
+)
+
+metadata <- fread(
+    metadata_file,
+    select = required_cols
 )
 
 if (!all(required_cols %in% names(metadata))) {
