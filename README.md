@@ -3,7 +3,7 @@ Collects genus metadata
 
 ### Needed
 Rscript (apt install r-base)
-ape and data.table (script -e 'install.packages(c("ape", "data.table"), repos="https://cloud.r-project.org")')
+ape, data.table, R.utils (script -e 'install.packages(c("ape", "data.table", "R.utils"), repos="https://cloud.r-project.org")')
 
 
 ## Filter by genus
