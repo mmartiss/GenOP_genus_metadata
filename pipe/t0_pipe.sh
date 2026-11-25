@@ -59,4 +59,9 @@ Rscript scripts/07_species_summary.r \
     "data/processed/${GENUS}_standardized_metadata.tsv" \
     "data/processed/${GENUS}_species_summary.tsv"
 
+# 08 - Download GTDB tree
+echo "[STEP 08] Downloading GTDB tree..."
+
+bash scripts/08_download_gtdb_tree.sh
+
 echo "[DONE] Pipeline completed for ${GENUS}"
