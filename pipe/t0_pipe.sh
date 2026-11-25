@@ -20,7 +20,8 @@ bash scripts/00_download_gtdb.sh
 bash scripts/01_filter_genus_gtdb.sh \
     --input data/raw/gtdb/bac120_metadata.tsv.gz \
     --output "$FILTERED" \
-    --genus "$GENUS"
+    --genus "$GENUS" \
+    --force
 
 # 02 — Fetch SRA metadata
 python3 scripts/02_fetch_sra.py \
@@ -34,7 +35,7 @@ python3 scripts/03_fetch_biosample.py \
 
 # 04 — Merge metadata
 python3 scripts/04_merge_metadata.py \
-    --gtdb "$PROCESSED/${GENUS}_gtdb.tsv" \
+    --gtdb "$FILTERED" \
     --biosample "$PROCESSED/${GENUS}_biosample.tsv" \
     --sra "$PROCESSED/${GENUS}_sra.tsv" \
     --out "$PROCESSED/${GENUS}_merged_metadata.tsv"
