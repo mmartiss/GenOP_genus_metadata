@@ -51,7 +51,7 @@ Botswana: Gaborone	Botswana: Gaborone	Botswana			preserved	6
 USA: Florida,Rock Key	USA: Florida, Rock Key	USA			normalized	6
 Romania: Targu Mures	Romania: Targu Mures	Romania			preserved	6
 USA: California	USA: California	USA			preserved	6
-Puerto Rico	Puerto Rico	Puerto Rico			preserved	6
+Puerto Rico	USA: Puerto Rico	USA			normalized	6
 India	India	India			preserved	6
 Romania	Romania	Romania			preserved	6
 USA: Florida;Rock Key	USA: Florida, Rock Key	USA			normalized	6
@@ -154,10 +154,10 @@ USA: Austin	USA: Austin	USA			preserved	2
 Nigeria: Lagos	Nigeria: Lagos	Nigeria			preserved	2
 USA: Unknown	USA: Unknown	USA			preserved	2
 Germany:Langen	Germany: Langen	Germany			normalized	2
-Hong Kong: Telegraph Bay	Hong Kong: Telegraph Bay	Hong Kong			preserved	2
+Hong Kong: Telegraph Bay	China: Hong Kong: Telegraph Bay	China			normalized	2
 Greece: Evoia	Greece: Evoia	Greece			preserved	2
 USA: Maryland	USA: Maryland	USA			preserved	2
-Hong Kong: Needle Hill	Hong Kong: Needle Hill	Hong Kong			preserved	2
+Hong Kong: Needle Hill	China: Hong Kong: Needle Hill	China			normalized	2
 China: Shanxi	China: Shanxi	China			preserved	2
 Antarctica: Pony Lake	Antarctica: Pony Lake	Antarctica			preserved	2
 China: Shanghai	China: Shanghai	China			preserved	2
@@ -166,7 +166,7 @@ Turkey	Türkiye	Türkiye			normalized	2
 New Zealand: Christchurch	New Zealand: Christchurch	New Zealand			preserved	2
 Japan: Aichi	Japan: Aichi	Japan			preserved	2
 China:Hainan	China: Hainan	China			normalized	2
-Hong Kong: Causeway Bay	Hong Kong: Causeway Bay	Hong Kong			preserved	2
+Hong Kong: Causeway Bay	China: Hong Kong: Causeway Bay	China			normalized	2
 USA: Houston	USA: Houston	USA			preserved	2
 Philippines	Philippines	Philippines			preserved	2
 INP	INP				review	2
@@ -176,7 +176,7 @@ USA: California, Los Angeles County	USA: California, Los Angeles County	USA			pr
 South Korea: Ulsan	South Korea: Ulsan	South Korea			preserved	2
 USA: Texas	USA: Texas	USA			preserved	2
 Portugal: National Park of Peneda-Geres; Ermida	Portugal: National Park of Peneda-Geres, Ermida	Portugal			normalized	2
-Hong Kong: Kam Shan	Hong Kong: Kam Shan	Hong Kong			preserved	2
+Hong Kong: Kam Shan	China: Hong Kong: Kam Shan	China			normalized	2
 USA: Cook County, IL	USA: Illinois, Cook County	USA			normalized	2
 Colombia: Antioquia; Rionegro	Colombia: Antioquia, Rionegro	Colombia			normalized	2
 USA: Pittsburgh; Magee-Womens Hospital of UPMC	USA: Pittsburgh, Magee-Womens Hospital of UPMC	USA			normalized	2
@@ -216,7 +216,7 @@ China:Wenzhou	China: Wenzhou	China			normalized	1
 Poland: Biebrzanski Park Narodowy	Poland: Biebrzanski Park Narodowy	Poland			preserved	1
 China: Lake Taihu; Jiangsu	China: Lake Taihu, Jiangsu	China			normalized	1
 China:Fujian	China: Fujian	China			normalized	1
-Hong Kong: Pak Lap	Hong Kong: Pak Lap	Hong Kong			preserved	1
+Hong Kong: Pak Lap	China: Hong Kong: Pak Lap	China			normalized	1
 Tunisia:Tunis	Tunisia: Tunis	Tunisia			normalized	1
 USA: Rock Key, Florida	USA: Florida, Rock Key	USA			normalized	1
 USA: Rochester	USA: Rochester	USA			preserved	1
@@ -254,7 +254,7 @@ USA: DC	USA: DC	USA			preserved	1
 USA: Minnesota	USA: Minnesota	USA			preserved	1
 USA: Florida;Looe Key	USA: Florida, Looe Key	USA			normalized	1
 United Kingdom: Edinburgh; Royal Infirmary Edinburgh; Neonatal unit	United Kingdom: Edinburgh, Royal Infirmary Edinburgh, Neonatal unit	United Kingdom			normalized	1
-India: West bengal	India: West bengal	India			preserved	1
+India: West bengal	India: West Bengal	India			normalized	1
 Mexico: Nuevo Leon	Mexico: Nuevo Leon	Mexico			preserved	1
 USA: Long Key, Florida	USA: Florida, Long Key	USA			normalized	1
 Thailand: Amnat Charoen Province	Thailand: Amnat Charoen Province	Thailand			preserved	1
@@ -280,11 +280,11 @@ USA: Canton; IL	USA: Illinois, Canton	USA			normalized	1
 China: Wuhan	China: Wuhan	China			preserved	1
 New Zealand	New Zealand	New Zealand			preserved	1
 Morocco	Morocco	Morocco			preserved	1
-China:anhui	China: anhui	China			normalized	1
+China:anhui	China: Anhui	China			normalized	1
 Canada: Calgary	Canada: Calgary	Canada			preserved	1
 China: Qingdao	China: Qingdao	China			preserved	1
 USA: Connecticut	USA: Connecticut	USA			preserved	1
-China: chongqing	China: chongqing	China			preserved	1
+China: chongqing	China: Chongqing	China			normalized	1
 South Korea: Naju	South Korea: Naju	South Korea			preserved	1
 USA: Sand Key, Florida	USA: Florida, Sand Key	USA			normalized	1
 China:Zhejiang	China: Zhejiang	China			normalized	1
@@ -372,3 +372,45 @@ China:Jian ou	China: Jian ou	China			normalized	1
 Australia: Donnybrook	Australia: Donnybrook	Australia			preserved	1
 USA: Philadelphia; PA	USA: Pennsylvania, Philadelphia	USA			normalized	1
 Italy: Policoro	Italy: Policoro	Italy			preserved	1
+England	United Kingdom: England	United Kingdom			normalized	0
+Scotland	United Kingdom: Scotland	United Kingdom			normalized	0
+Wales	United Kingdom: Wales	United Kingdom			normalized	0
+Northern Ireland	United Kingdom: Northern Ireland	United Kingdom			normalized	0
+Great Britain	United Kingdom	United Kingdom			normalized	0
+Britain	United Kingdom	United Kingdom			normalized	0
+U.K.	United Kingdom	United Kingdom			normalized	0
+U.K	United Kingdom	United Kingdom			normalized	0
+GB	United Kingdom	United Kingdom			normalized	0
+United States	USA	USA			normalized	0
+United States of America	USA	USA			normalized	0
+U.S.	USA	USA			normalized	0
+U.S.A.	USA	USA			normalized	0
+US	USA	USA			normalized	0
+PRC	China	China			normalized	0
+P.R. China	China	China			normalized	0
+People's Republic of China	China	China			normalized	0
+Mainland China	China	China			normalized	0
+Hong Kong	China: Hong Kong	China			normalized	0
+Hong Kong SAR	China: Hong Kong	China			normalized	0
+Hong Kong SAR, China	China: Hong Kong	China			normalized	0
+Hong Kong, China	China: Hong Kong	China			normalized	0
+Hong Kong Special Administrative Region	China: Hong Kong	China			normalized	0
+HKSAR	China: Hong Kong	China			normalized	0
+China: Hong Kong	China: Hong Kong	China			normalized	0
+Macao	China: Macao	China			normalized	0
+Macau	China: Macao	China			normalized	0
+Macao SAR	China: Macao	China			normalized	0
+Macau SAR	China: Macao	China			normalized	0
+Macao, China	China: Macao	China			normalized	0
+Macau, China	China: Macao	China			normalized	0
+China: Macao	China: Macao	China			normalized	0
+China: Macau	China: Macao	China			normalized	0
+USA: Puerto Rico	USA: Puerto Rico	USA			normalized	0
+US: Puerto Rico	USA: Puerto Rico	USA			normalized	0
+Beijing	China: Beijing	China			normalized	0
+Hangzhou	China: Hangzhou	China			normalized	0
+Nanjing	China: Nanjing	China			normalized	0
+Shanghai	China: Shanghai	China			normalized	0
+Guangzhou	China: Guangzhou	China			normalized	0
+Wuhan	China: Wuhan	China			normalized	0
+Shenzhen	China: Shenzhen	China			normalized	0
